@@ -1,1 +1,1 @@
-# Learning Python
+#### This repository contains my journey in learning Python, which consists of all the tutorials, notes, and programs that I have coded. Enjoy!
